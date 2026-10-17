@@ -7,7 +7,7 @@ Get the latest version from [Releases](https://github.com/Kronos1993/lumina-soun
 | Platform | File |
 |---|---|
 | macOS (Apple Silicon) | [`Lumina-Sound-macOS-arm64.zip`](https://github.com/Kronos1993/lumina-sound-releases/releases/latest/download/Lumina-Sound-macOS-arm64.zip) |
-| Windows (x64) | [`Lumina-Sound-Windows-x64.msi`](https://github.com/Kronos1993/lumina-sound-releases/releases/latest/download/Lumina-Sound-Windows-x64.msi) — also on the Microsoft Store |
+| Windows (x64) | [`Lumina-Sound-Windows-x64.msi`](https://github.com/Kronos1993/lumina-sound-releases/releases/latest/download/Lumina-Sound-Windows-x64.msi), or [get it from the Microsoft Store](https://apps.microsoft.com/store/detail/9NFCFKT1JL7F?cid=DevShareMCLPCS) |
 
 ## Installing on macOS
 
@@ -26,7 +26,7 @@ xattr -dr com.apple.quarantine "/Applications/Lumina Sound.app"
 1. Run the `.msi`.
 2. If Windows SmartScreen shows "Windows protected your PC", click **More info → Run anyway**. The installer isn't code-signed, which is why Windows shows this.
 
-The Microsoft Store version installs without this warning.
+The [Microsoft Store version](https://apps.microsoft.com/store/detail/9NFCFKT1JL7F?cid=DevShareMCLPCS) installs without this warning.
 
 ## Premium
 
